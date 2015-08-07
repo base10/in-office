@@ -6,6 +6,9 @@ en:
       with_weekday:
         "%a %m/%d/%y"
 
+  flashes:
+    success_after_create: "Successfully signed-up"
+
   time:
     formats:
       default:
