@@ -150,7 +150,7 @@ GEM
       slop (~> 3.4)
     pry-rails (0.3.4)
       pry (>= 0.9.10)
-    puma (2.12.2)
+    puma (3.12.6)
     rack (1.6.4)
     rack-canonical-host (0.1.0)
       addressable
